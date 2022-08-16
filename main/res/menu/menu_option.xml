@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu1"
+        android:title="WiFi 설정"
+        app:showAsAction="never" />
+
+
+
+    <item
+        android:id="@+id/menu2"
+        android:title="환기팬 변경"
+        />
+
+    <item
+        android:id="@+id/menu3"
+        android:title="로그아웃"
+        app:showAsAction="never" />
+
+</menu>
